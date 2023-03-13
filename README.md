@@ -1,22 +1,16 @@
 <div align="center">
    <br/>
-   <h2>Moon SeogHun's Github</h2>
+   <h3>Moon SeogHun's Github</h3>
    <hr/>
-   <br/>
-   <h3>FrontEndとUIデザインに興味があります。</h3>
-   <h3>私のMain Skillは HTML, CSS, JavaScriptです。</h3>
-   <h3>好きなFrameworkとLibraryはTailwind CSS、React、NEXT JSです。</h3>
-   <h3>Front End開発者としてUIデザイナーと開発者の間で疎通の橋になりたいんです。</h3>
-   <br/>
+   <h4>FrontEndとUIデザインに興味があります。</h4>
+   <h4>私のMain Skillは HTML, CSS, JavaScriptです。</h4>
+   <h4>好きなFrameworkとLibraryはTailwind CSS、React、NEXT JSです。</h4>
+   <h4>Front End開発者としてUIデザイナーと開発者の間で疎通の橋になりたいんです。</h4>
    <hr/>
-   <br/>
-   <h2>趣味</h2>
-   <h3>💪運動、🚴Cycling、🍳料理、🎥映画</h3>
-   <br/>
+   <h3>趣味</h3>
+   <h4>💪運動、🚴Cycling、🍳料理、🎥映画</h4>
    <hr/>
-   <br/>
-   <h2>Tech Stack</h2>
-   <br/>
+   <h3>Tech Stack</h3>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
