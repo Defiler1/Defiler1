@@ -15,8 +15,7 @@
    <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/React-white?style=flat&logo=react&logoColor=skyblue"/>&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white"/>&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/Tailwind CSS-white?
-   style=flat&logo=tailwindcss&logoColor=skyblue"/>&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/Tailwind CSS-white?style=flat&logo=tailwindcss&logoColor=skyblue"/>&nbsp;&nbsp;
    <br/>
    <br/>
    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>&nbsp;&nbsp;
