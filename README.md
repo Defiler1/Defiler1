@@ -4,7 +4,6 @@
    <h4>FrontEndとUIデザインに興味があります。</h4>
    <h4>私のMain Skillは HTML, CSS, JavaScriptです。</h4>
    <h4>好きなFrameworkとLibraryはTailwind CSS、React、NEXT JSです。</h4>
-   <h4>Front End開発者としてUIデザイナーと開発者の間で疎通の橋になりたいんです。</h4>
    <hr/>
    <h3>趣味</h3>
    <h4>💪運動、🚴Cycling、🍳料理、🎥映画</h4>
